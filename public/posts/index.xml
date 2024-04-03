@@ -6,14 +6,35 @@
     <description>Recent content in Posts on AndrewShannon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2024 16:58:58 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 19:38:54 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scraping Job Post Data</title>
+      <link>http://localhost:1313/posts/scraping-job-post-data/</link>
+      <pubDate>Tue, 02 Apr 2024 19:38:54 +0200</pubDate>
+      <guid>http://localhost:1313/posts/scraping-job-post-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Identifying Mood in Midi Files</title>
+      <link>http://localhost:1313/posts/identifying-mood-in-midi-files/</link>
+      <pubDate>Tue, 02 Apr 2024 19:38:19 +0200</pubDate>
+      <guid>http://localhost:1313/posts/identifying-mood-in-midi-files/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Evoting Data Model</title>
       <link>http://localhost:1313/posts/evoting-data-model/</link>
       <pubDate>Tue, 02 Apr 2024 16:58:58 +0200</pubDate>
       <guid>http://localhost:1313/posts/evoting-data-model/</guid>
-      <description>We are doing some evoting data modeling stuff This project was for my database design course.</description>
+      <description>We are doing some evoting data modeling stuff. This project was for my database design course.</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/posts/about-me/</link>
+      <pubDate>Tue, 02 Apr 2024 13:58:58 +0200</pubDate>
+      <guid>http://localhost:1313/posts/about-me/</guid>
+      <description>Hey, I&amp;rsquo;m Andrew 👋 I&amp;rsquo;m currently doing my masters in data science at Cattolica Universita in Milan, Italy. This blog will document the things I&amp;rsquo;ve learned and serve as my portfolio.</description>
     </item>
   </channel>
 </rss>
