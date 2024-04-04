@@ -1,0 +1,34 @@
+baseURL: "http://theplaybook.dev/"
+languageCode: en-us
+title: AndrewShannon
+theme: PaperMod
+
+enableEmoji: true
+params:
+  defaultTheme: auto
+
+  showBreadCrumbs: true
+
+  homeInfoParams:
+    Title: "Hey, I'm Andrew Shannon 👋"
+    Content: >
+      My 10-second elevator pitch is that I use words and data to guide users where they need to be in digital and physical environments. Right now, I'm the one and only content strategist & UX writer at SpotOn, where I promote content IS design to a team of 20+ designers and write for high-priority products.
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/andrew-shannon-us-ua/"
+    - name: github
+      url: "https://github.com/ashannon828"
+    - name: Rss
+      url: "index.xml"
+
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about-me/
+      weight: 10
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 10
