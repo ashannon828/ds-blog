@@ -2,7 +2,7 @@
 
 # Hey, I'm Andrew 👋
 
-I grew up in a small town in Maine, USA and graduated from Florida Atlantic University with a degree in management information systems.
+I grew up in a small town in Maine, USA and graduated from Florida Atlantic University with a degree in management information systems. I'm currently working on my Masters degree in data science.
 
 I enjoy the process of creating things from nothing, so I thought I wanted to be a front-end developer. I embarked on a multiyear journey to teach myself a modern front-end framework to get to the point that I could build websites like this spiffy blog you're reading now.
 
