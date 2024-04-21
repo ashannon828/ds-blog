@@ -1,3 +1,7 @@
+---
+ShowBreadCrumbs: false
+---
+
 ![Photo of Andrew Shannon](/img/me.png)
 
 # Hey, I'm Andrew 👋
