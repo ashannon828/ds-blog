@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AndrewShannon</title>
-    <link>https://ashannon828.github.io/ds-blog/</link>
+    <link>ds-blog-elc.pages.dev/</link>
     <description>Recent content on AndrewShannon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Apr 2024 09:36:01 +0200</lastBuildDate>
-    <atom:link href="https://ashannon828.github.io/ds-blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="ds-blog-elc.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating Synthetic Data with Python Using Faker</title>
-      <link>https://ashannon828.github.io/ds-blog/posts/creating-synthetic-data-with-python-using-faker/</link>
+      <link>ds-blog-elc.pages.dev/posts/creating-synthetic-data-with-python-using-faker/</link>
       <pubDate>Thu, 04 Apr 2024 09:36:01 +0200</pubDate>
-      <guid>https://ashannon828.github.io/ds-blog/posts/creating-synthetic-data-with-python-using-faker/</guid>
+      <guid>ds-blog-elc.pages.dev/posts/creating-synthetic-data-with-python-using-faker/</guid>
       <description>Let&amp;rsquo;s start from the very beginning. What is synthetic data, and why do we even need it? In simple words, synthetic data is just that—synthetic or fake data created to make some task easier. Common use cases include masking sensitive data so that it can be shared, simulating events like fraudulent transactions, using dummy data to help with quality assurance, and many more.
 In my case, I needed dummy data to test a database I was developing and Faker is my go to python library for that.</description>
     </item>
     <item>
       <title></title>
-      <link>https://ashannon828.github.io/ds-blog/about-me/</link>
+      <link>ds-blog-elc.pages.dev/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ashannon828.github.io/ds-blog/about-me/</guid>
+      <guid>ds-blog-elc.pages.dev/about-me/</guid>
       <description>Hey, I&amp;rsquo;m Andrew 👋 I grew up in a small town in Maine, USA and graduated from Florida Atlantic University with a degree in management information systems. I&amp;rsquo;m currently working on my Masters degree in data science.
 I enjoy the process of creating things from nothing, so I thought I wanted to be a front-end developer. I embarked on a multiyear journey to teach myself a modern front-end framework to get to the point that I could build websites like this spiffy blog you&amp;rsquo;re reading now.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on AndrewShannon</title>
-    <link>https://ashannon828.github.io/ds-blog/posts/</link>
+    <link>ds-blog-elc.pages.dev/posts/</link>
     <description>Recent content in Posts on AndrewShannon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Apr 2024 09:36:01 +0200</lastBuildDate>
-    <atom:link href="https://ashannon828.github.io/ds-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="ds-blog-elc.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating Synthetic Data with Python Using Faker</title>
-      <link>https://ashannon828.github.io/ds-blog/posts/creating-synthetic-data-with-python-using-faker/</link>
+      <link>ds-blog-elc.pages.dev/posts/creating-synthetic-data-with-python-using-faker/</link>
       <pubDate>Thu, 04 Apr 2024 09:36:01 +0200</pubDate>
-      <guid>https://ashannon828.github.io/ds-blog/posts/creating-synthetic-data-with-python-using-faker/</guid>
+      <guid>ds-blog-elc.pages.dev/posts/creating-synthetic-data-with-python-using-faker/</guid>
       <description>Let&amp;rsquo;s start from the very beginning. What is synthetic data, and why do we even need it? In simple words, synthetic data is just that—synthetic or fake data created to make some task easier. Common use cases include masking sensitive data so that it can be shared, simulating events like fraudulent transactions, using dummy data to help with quality assurance, and many more.
 In my case, I needed dummy data to test a database I was developing and Faker is my go to python library for that.</description>
     </item>
